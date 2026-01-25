@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tphilus/A2SV-DSA-/tree/master/0014-longest-common-prefix) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tphilus/A2SV-DSA-/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## String
 |  |
 | ------- |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tphilus/A2SV-DSA-/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tphilus/A2SV-DSA-/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+## Prefix Sum
+|  |
+| ------- |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tphilus/A2SV-DSA-/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 <!---LeetCode Topics End-->
