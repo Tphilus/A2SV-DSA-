@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Tphilus/A2SV-DSA-/tree/master/0014-longest-common-prefix) |
 | [0268-missing-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0268-missing-number) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tphilus/A2SV-DSA-/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1920-build-array-from-permutation](https://github.com/Tphilus/A2SV-DSA-/tree/master/1920-build-array-from-permutation) |
 ## String
 |  |
 | ------- |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Tphilus/A2SV-DSA-/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
