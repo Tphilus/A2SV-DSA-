@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Tphilus/A2SV-DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [2413-smallest-even-multiple](https://github.com/Tphilus/A2SV-DSA-/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Tphilus/A2SV-DSA-/tree/master/2469-convert-the-temperature) |
 ## Number Theory
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Tphilus/A2SV-DSA-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Tphilus/A2SV-DSA-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Tphilus/A2SV-DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tphilus/A2SV-DSA-/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1920-build-array-from-permutation](https://github.com/Tphilus/A2SV-DSA-/tree/master/1920-build-array-from-permutation) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Tphilus/A2SV-DSA-/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Tphilus/A2SV-DSA-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Tphilus/A2SV-DSA-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Tphilus/A2SV-DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Tphilus/A2SV-DSA-/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Simulation
 |  |
