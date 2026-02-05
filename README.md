@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Tphilus/A2SV-DSA-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tphilus/A2SV-DSA-/tree/master/0628-maximum-product-of-three-numbers) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tphilus/A2SV-DSA-/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1920-build-array-from-permutation](https://github.com/Tphilus/A2SV-DSA-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/1929-concatenation-of-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Tphilus/A2SV-DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Tphilus/A2SV-DSA-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Tphilus/A2SV-DSA-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tphilus/A2SV-DSA-/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Tphilus/A2SV-DSA-/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Tphilus/A2SV-DSA-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tphilus/A2SV-DSA-/tree/master/0628-maximum-product-of-three-numbers) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Tphilus/A2SV-DSA-/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Simulation
 |  |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Tphilus/A2SV-DSA-/tree/master/0219-contains-duplicate-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
