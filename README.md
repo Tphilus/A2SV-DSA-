@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Tphilus/A2SV-DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Tphilus/A2SV-DSA-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Tphilus/A2SV-DSA-/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tphilus/A2SV-DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1002-find-common-characters](https://github.com/Tphilus/A2SV-DSA-/tree/master/1002-find-common-characters) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Tphilus/A2SV-DSA-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Tphilus/A2SV-DSA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Tphilus/A2SV-DSA-/tree/master/0500-keyboard-row) |
 | [1002-find-common-characters](https://github.com/Tphilus/A2SV-DSA-/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Tphilus/A2SV-DSA-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Tphilus/A2SV-DSA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tphilus/A2SV-DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Tphilus/A2SV-DSA-/tree/master/2225-find-players-with-zero-or-one-losses) |
