@@ -40,6 +40,26 @@
 
 # In the third test case, four teams of three people will be formed, with the first two choosing Colony A and the remaining two choosing Colony B. The answer is 0.
 
+# =============== Approach ==============
+# We are given 𝑛
+#  people who must be divided into teams of size 2 or 3.
+# Each team then chooses one of two colonies, and all members of a team go to the same colony.
+
+# Our goal is to minimize the absolute difference between the total number of people in the two colonies.
+
+# Key Idea
+# We try to evenly divide all people between the two colonies.
+
+# Case Analysis
+# If 𝑛≤3
+# , all people must go to one colony → answer is 𝑛
+# If 𝑛>3
+#  and 𝑛
+#  is even → answer is 0
+# If 𝑛>3
+#  and 𝑛
+#  is odd → answer is 1
+
 t = int(input())
 for _ in range(t):
     n = int(input())
