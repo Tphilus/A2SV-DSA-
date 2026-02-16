@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Tphilus/A2SV-DSA-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Tphilus/A2SV-DSA-/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2460-apply-operations-to-an-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/2460-apply-operations-to-an-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tphilus/A2SV-DSA-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tphilus/A2SV-DSA-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Tphilus/A2SV-DSA-/tree/master/3668-restore-finishing-order) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Tphilus/A2SV-DSA-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Tphilus/A2SV-DSA-/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2460-apply-operations-to-an-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/2460-apply-operations-to-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/Tphilus/A2SV-DSA-/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/Tphilus/A2SV-DSA-/tree/master/0832-flipping-an-image) |
+| [2460-apply-operations-to-an-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/2460-apply-operations-to-an-array) |
 ## Matrix
 |  |
 | ------- |
