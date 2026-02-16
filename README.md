@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tphilus/A2SV-DSA-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tphilus/A2SV-DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0804-unique-morse-code-words](https://github.com/Tphilus/A2SV-DSA-/tree/master/0804-unique-morse-code-words) |
+| [0867-transpose-matrix](https://github.com/Tphilus/A2SV-DSA-/tree/master/0867-transpose-matrix) |
 | [1002-find-common-characters](https://github.com/Tphilus/A2SV-DSA-/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tphilus/A2SV-DSA-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Tphilus/A2SV-DSA-/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/Tphilus/A2SV-DSA-/tree/master/0867-transpose-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tphilus/A2SV-DSA-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/Tphilus/A2SV-DSA-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/1929-concatenation-of-array) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Tphilus/A2SV-DSA-/tree/master/0344-reverse-string) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Tphilus/A2SV-DSA-/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
