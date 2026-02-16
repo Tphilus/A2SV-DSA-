@@ -1,11 +1,12 @@
 class Solution:
     def applyOperations(self, nums: List[int]) -> List[int]:
-
-        for i in range(len(nums) - 1):
+        n = len(nums)
+        for i in range(n - 1):
             if nums[i] == nums[i + 1]:
                 nums[i] *= 2
                 nums[i + 1] = 0
         
-        result = [num for num in nums if num != 0]
-        result.extend([0] * (len(nums) - len(result)))
-        return result
+        non_zero = [num for num in nums if num != 0]
+        non_zero.extend([0] * (n - len(non_zero)))
+        
+        return non_zero
