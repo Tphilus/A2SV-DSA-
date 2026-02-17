@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Tphilus/A2SV-DSA-/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tphilus/A2SV-DSA-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0789-escape-the-ghosts](https://github.com/Tphilus/A2SV-DSA-/tree/master/0789-escape-the-ghosts) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tphilus/A2SV-DSA-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2413-smallest-even-multiple](https://github.com/Tphilus/A2SV-DSA-/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Tphilus/A2SV-DSA-/tree/master/2469-convert-the-temperature) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Tphilus/A2SV-DSA-/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tphilus/A2SV-DSA-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tphilus/A2SV-DSA-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0789-escape-the-ghosts](https://github.com/Tphilus/A2SV-DSA-/tree/master/0789-escape-the-ghosts) |
 | [0804-unique-morse-code-words](https://github.com/Tphilus/A2SV-DSA-/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/Tphilus/A2SV-DSA-/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Tphilus/A2SV-DSA-/tree/master/0867-transpose-matrix) |
