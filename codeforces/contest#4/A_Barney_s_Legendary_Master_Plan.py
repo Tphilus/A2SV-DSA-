@@ -104,8 +104,6 @@
 # . A single Suit Up play with 𝑥=100
 #  gives the target lifestyle.
 
-
-
 t = int(input())
 
 for _ in range(t):
