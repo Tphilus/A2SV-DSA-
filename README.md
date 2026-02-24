@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Tphilus/A2SV-DSA-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tphilus/A2SV-DSA-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Tphilus/A2SV-DSA-/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2418-sort-the-people](https://github.com/Tphilus/A2SV-DSA-/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/2460-apply-operations-to-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Tphilus/A2SV-DSA-/tree/master/2574-left-and-right-sum-differences) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Tphilus/A2SV-DSA-/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tphilus/A2SV-DSA-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Tphilus/A2SV-DSA-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Tphilus/A2SV-DSA-/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2418-sort-the-people](https://github.com/Tphilus/A2SV-DSA-/tree/master/2418-sort-the-people) |
 ## Trie
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Tphilus/A2SV-DSA-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tphilus/A2SV-DSA-/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Tphilus/A2SV-DSA-/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2418-sort-the-people](https://github.com/Tphilus/A2SV-DSA-/tree/master/2418-sort-the-people) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Tphilus/A2SV-DSA-/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3668-restore-finishing-order](https://github.com/Tphilus/A2SV-DSA-/tree/master/3668-restore-finishing-order) |
 ## Prefix Sum
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tphilus/A2SV-DSA-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Tphilus/A2SV-DSA-/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2418-sort-the-people](https://github.com/Tphilus/A2SV-DSA-/tree/master/2418-sort-the-people) |
 ## Simulation
 |  |
 | ------- |
