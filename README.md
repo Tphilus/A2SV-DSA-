@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Tphilus/A2SV-DSA-/tree/master/2574-left-and-right-sum-differences) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Tphilus/A2SV-DSA-/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tphilus/A2SV-DSA-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3467-transform-array-by-parity](https://github.com/Tphilus/A2SV-DSA-/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tphilus/A2SV-DSA-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Tphilus/A2SV-DSA-/tree/master/3668-restore-finishing-order) |
 ## String
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tphilus/A2SV-DSA-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Tphilus/A2SV-DSA-/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2418-sort-the-people](https://github.com/Tphilus/A2SV-DSA-/tree/master/2418-sort-the-people) |
+| [3467-transform-array-by-parity](https://github.com/Tphilus/A2SV-DSA-/tree/master/3467-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Tphilus/A2SV-DSA-/tree/master/0229-majority-element-ii) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Tphilus/A2SV-DSA-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Tphilus/A2SV-DSA-/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3467-transform-array-by-parity](https://github.com/Tphilus/A2SV-DSA-/tree/master/3467-transform-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
