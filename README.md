@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Tphilus/A2SV-DSA-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tphilus/A2SV-DSA-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Tphilus/A2SV-DSA-/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Tphilus/A2SV-DSA-/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2418-sort-the-people](https://github.com/Tphilus/A2SV-DSA-/tree/master/2418-sort-the-people) |
