@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Tphilus/A2SV-DSA-/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Tphilus/A2SV-DSA-/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Tphilus/A2SV-DSA-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/Tphilus/A2SV-DSA-/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/2460-apply-operations-to-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Tphilus/A2SV-DSA-/tree/master/2574-left-and-right-sum-differences) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Tphilus/A2SV-DSA-/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Tphilus/A2SV-DSA-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/Tphilus/A2SV-DSA-/tree/master/2418-sort-the-people) |
 | [2679-sum-in-a-matrix](https://github.com/Tphilus/A2SV-DSA-/tree/master/2679-sum-in-a-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tphilus/A2SV-DSA-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Tphilus/A2SV-DSA-/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/Tphilus/A2SV-DSA-/tree/master/0832-flipping-an-image) |
 | [0969-pancake-sorting](https://github.com/Tphilus/A2SV-DSA-/tree/master/0969-pancake-sorting) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Tphilus/A2SV-DSA-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/2460-apply-operations-to-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tphilus/A2SV-DSA-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/Tphilus/A2SV-DSA-/tree/master/3794-reverse-string-prefix) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/Tphilus/A2SV-DSA-/tree/master/0969-pancake-sorting) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Tphilus/A2SV-DSA-/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tphilus/A2SV-DSA-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Tphilus/A2SV-DSA-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Game Theory
 |  |
 | ------- |
