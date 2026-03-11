@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Tphilus/A2SV-DSA-/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tphilus/A2SV-DSA-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Tphilus/A2SV-DSA-/tree/master/1672-richest-customer-wealth) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Tphilus/A2SV-DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tphilus/A2SV-DSA-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Tphilus/A2SV-DSA-/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tphilus/A2SV-DSA-/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Tphilus/A2SV-DSA-/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Tphilus/A2SV-DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Tphilus/A2SV-DSA-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tphilus/A2SV-DSA-/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Tphilus/A2SV-DSA-/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Tphilus/A2SV-DSA-/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Tphilus/A2SV-DSA-/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Tphilus/A2SV-DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Tphilus/A2SV-DSA-/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Tphilus/A2SV-DSA-/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tphilus/A2SV-DSA-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Tphilus/A2SV-DSA-/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/Tphilus/A2SV-DSA-/tree/master/0832-flipping-an-image) |
 | [0969-pancake-sorting](https://github.com/Tphilus/A2SV-DSA-/tree/master/0969-pancake-sorting) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Tphilus/A2SV-DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Tphilus/A2SV-DSA-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/2460-apply-operations-to-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tphilus/A2SV-DSA-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
